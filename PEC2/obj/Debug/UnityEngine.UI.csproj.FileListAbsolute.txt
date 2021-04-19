@@ -1,0 +1,2 @@
+/Volumes/Sin título/MASTER/2D PROGRAMMING/PEC2/PEC2/obj/Debug/UnityEngine.UI.csprojAssemblyReference.cache
+/Volumes/Sin título/MASTER/2D PROGRAMMING/PEC2/PEC2/obj/Debug/UnityEngine.UI.csproj.CoreCompileInputs.cache

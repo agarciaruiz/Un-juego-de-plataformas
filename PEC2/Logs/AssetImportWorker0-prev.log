@@ -1,0 +1,146 @@
+Using pre-set license
+
+ COMMAND LINE ARGUMENTS:
+/Applications/Unity/Hub/Editor/2020.3.2f1/Unity.app/Contents/MacOS/Unity
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+/Volumes/Sin título/MASTER/2D PROGRAMMING/PEC2/PEC2
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+49159
+Successfully changed project path to: /Volumes/Sin título/MASTER/2D PROGRAMMING/PEC2/PEC2
+/Volumes/Sin título/MASTER/2D PROGRAMMING/PEC2/PEC2
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 75.35 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.2f1 (8fd9074bf66c)
+[Subsystems] Discovering subsystems at path /Applications/Unity/Hub/Editor/2020.3.2f1/Unity.app/Contents/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path /Volumes/Sin título/MASTER/2D PROGRAMMING/PEC2/PEC2/Assets
+GfxDevice: creating device client; threaded=0
+2021-04-18 20:34:28.824 Unity[725:14666] Color LCD preferred device: Intel HD Graphics 4000 (low power)
+2021-04-18 20:34:28.824 Unity[725:14666] Metal devices available: 1
+2021-04-18 20:34:28.824 Unity[725:14666] 0: Intel HD Graphics 4000 (low power)
+2021-04-18 20:34:28.826 Unity[725:14666] Using device Intel HD Graphics 4000 (low power)
+Initializing Metal device caps: Intel HD Graphics 4000
+Initialize mono
+Mono path[0] = '/Applications/Unity/Hub/Editor/2020.3.2f1/Unity.app/Contents/Managed'
+Mono path[1] = '/Applications/Unity/Hub/Editor/2020.3.2f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = '/Applications/Unity/Hub/Editor/2020.3.2f1/Unity.app/Contents/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56725
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: /Applications/Unity/Hub/Editor/2020.3.2f1/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: /Applications/Unity/Hub/Editor/2020.3.2f1/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/UnityEditor.OSXStandalone.Extensions.dll
+Register platform support module: /Applications/Unity/Hub/Editor/2020.3.2f1/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.001402 seconds.
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 68.18 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  3.163 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.000797 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 70.78 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.286 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launching external process: /Applications/Unity/Hub/Editor/2020.3.2f1/Unity.app/Contents/Tools/UnityShaderCompiler
+Launched and connected shader compiler UnityShaderCompiler after 0.03 seconds
+Refreshing native plugins compatible for Editor in 0.58 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1857 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 149.9 MB.
+System memory in use after: 150.0 MB.
+
+Unloading 19 unused Assets to reduce memory usage. Loaded Objects now: 2308.
+Total: 3.005228 ms (FindLiveObjects: 0.315440 ms CreateObjectMapping: 0.093546 ms MarkObjects: 2.481175 ms  DeleteObjects: 0.113060 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/Scripts/MushroomMovement.cs
+  artifactKey: Guid(1f06d05376500c046bdb08a8a04c6f50) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/MushroomMovement.cs using Guid(1f06d05376500c046bdb08a8a04c6f50) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'eb66ca3776407d7e2925a6583635a8cd') in 0.548678 seconds
+  Import took 0.552861 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 984.320952 seconds.
+  path: Assets/Prefabs/LootBlock.prefab
+  artifactKey: Guid(01ce902d30c8b42488c8734edcb94b7e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/LootBlock.prefab using Guid(01ce902d30c8b42488c8734edcb94b7e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bdb7457f6aa4dc9593be50c6bb14d695') in 0.552439 seconds
+  Import took 0.558289 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.883407 seconds.
+  path: Assets/Prefabs/LootBlock.prefab
+  artifactKey: Guid(01ce902d30c8b42488c8734edcb94b7e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/LootBlock.prefab using Guid(01ce902d30c8b42488c8734edcb94b7e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '72dfde415ce919c7ee8298f807e70bf8') in 0.074930 seconds
+  Import took 0.080551 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 8.854353 seconds.
+  path: Assets/Prefabs/LootBlock.prefab
+  artifactKey: Guid(01ce902d30c8b42488c8734edcb94b7e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/LootBlock.prefab using Guid(01ce902d30c8b42488c8734edcb94b7e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '39033658dfd996ca32eb4ae5a83eeed1') in 0.024764 seconds
+  Import took 0.049940 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 8.560223 seconds.
+  path: Assets/Prefabs/LootBlock.prefab
+  artifactKey: Guid(01ce902d30c8b42488c8734edcb94b7e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/LootBlock.prefab using Guid(01ce902d30c8b42488c8734edcb94b7e) Importer(815301076,1909f56bfc062723c751e8b465ee728b) Controller 'Mushroom': Transition '' in state 'ShowUp' uses parameter '' which does not exist in controller.
+UnityEngine.StackTraceUtility:ExtractStackTrace () (at /Users/bokken/buildslave/unity/build/Runtime/Export/Scripting/StackTrace.cs:37)
+UnityEditor.EditorUtility:Internal_InstantiateRemoveAllNonAnimationComponentsSingle (UnityEngine.Object,UnityEngine.Vector3,UnityEngine.Quaternion)
+UnityEditor.EditorUtility:InstantiateRemoveAllNonAnimationComponents (UnityEngine.Object,UnityEngine.Vector3,UnityEngine.Quaternion) (at /Users/bokken/buildslave/unity/build/Editor/Mono/EditorUtility.cs:635)
+UnityEditor.EditorUtility:InstantiateForAnimatorPreview (UnityEngine.Object) (at /Users/bokken/buildslave/unity/build/Editor/Mono/EditorUtility.cs:601)
+UnityEditor.GameObjectInspector/PreviewData:UpdateGameObject (UnityEngine.Object) (at /Users/bokken/buildslave/unity/build/Editor/Mono/Inspector/GameObjectInspector.cs:97)
+UnityEditor.GameObjectInspector/PreviewData:.ctor (UnityEngine.Object) (at /Users/bokken/buildslave/unity/build/Editor/Mono/Inspector/GameObjectInspector.cs:91)
+UnityEditor.GameObjectInspector:GetPreviewData () (at /Users/bokken/buildslave/unity/build/Editor/Mono/Inspector/GameObjectInspector.cs:623)
+UnityEditor.GameObjectInspector:RenderStaticPreview (string,UnityEngine.Object[],int,int) (at /Users/bokken/buildslave/unity/build/Editor/Mono/Inspector/GameObjectInspector.cs:868)
+UnityEditor.AssetPreviewUpdater:CreatePreviewForAsset (UnityEngine.Object,UnityEngine.Object[],string) (at /Users/bokken/buildslave/unity/build/Editor/Mono/AssetPreviewUpdater.cs:33)
+
+[/Users/bokken/buildslave/unity/build/Runtime/Export/Scripting/StackTrace.cs line 37]
+
+ -> (artifact id: 'eb75570e57a498df93d7a695fbf347e1') in 0.021852 seconds
+  Import took 0.027266 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 222.492040 seconds.
+  path: Assets/Animations/LootBlock 1.controller
+  artifactKey: Guid(73838a18491474200906ae793879d314) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/LootBlock 1.controller using Guid(73838a18491474200906ae793879d314) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a8937fb73ede4428c74e9013c7aaea9e') in 0.287065 seconds
+  Import took 0.291509 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.769383 seconds.
+  path: Assets/Animations/BoxAnim/LootboxIdle.anim
+  artifactKey: Guid(111ed2f16307943698ce81e97d780124) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/BoxAnim/LootboxIdle.anim using Guid(111ed2f16307943698ce81e97d780124) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bbc5cbf0fad313e46700d97092d62f94') in 0.271706 seconds
+  Import took 0.275976 seconds .
+

@@ -1,0 +1,1620 @@
+fileFormatVersion: 2
+guid: 829f15e82bdb5c24d91aa594d99b1c60
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5587935722270085170
+    second: Custom Edited - Mario Customs - Mario Super Mario World GBA-Style (1)_0
+  - first:
+      213: 7053320976129581430
+    second: Custom Edited - Mario Customs - Mario Super Mario World GBA-Style (1)_1
+  - first:
+      213: 3497768644513109892
+    second: Custom Edited - Mario Customs - Mario Super Mario World GBA-Style (1)_2
+  - first:
+      213: -6691629033709047830
+    second: Custom Edited - Mario Customs - Mario Super Mario World GBA-Style (1)_3
+  - first:
+      213: -3482562778457986292
+    second: Custom Edited - Mario Customs - Mario Super Mario World GBA-Style (1)_4
+  - first:
+      213: 8528219440907804885
+    second: Custom Edited - Mario Customs - Mario Super Mario World GBA-Style (1)_5
+  - first:
+      213: 1111663714410649169
+    second: Custom Edited - Mario Customs - Mario Super Mario World GBA-Style (1)_6
+  - first:
+      213: 4470096827879116777
+    second: Custom Edited - Mario Customs - Mario Super Mario World GBA-Style (1)_7
+  - first:
+      213: -4607626201704225709
+    second: Custom Edited - Mario Customs - Mario Super Mario World GBA-Style (1)_8
+  - first:
+      213: 526271597215020150
+    second: Custom Edited - Mario Customs - Mario Super Mario World GBA-Style (1)_9
+  - first:
+      213: -2615679280548401886
+    second: Custom Edited - Mario Customs - Mario Super Mario World GBA-Style (1)_10
+  - first:
+      213: 446849204165835371
+    second: Custom Edited - Mario Customs - Mario Super Mario World GBA-Style (1)_11
+  - first:
+      213: 5255621102935998702
+    second: Custom Edited - Mario Customs - Mario Super Mario World GBA-Style (1)_12
+  - first:
+      213: 8717984854630061381
+    second: Custom Edited - Mario Customs - Mario Super Mario World GBA-Style (1)_13
+  - first:
+      213: 5247511154523025140
+    second: Custom Edited - Mario Customs - Mario Super Mario World GBA-Style (1)_14
+  - first:
+      213: 6343884267154621267
+    second: Custom Edited - Mario Customs - Mario Super Mario World GBA-Style (1)_15
+  - first:
+      213: 8177085400511650512
+    second: Custom Edited - Mario Customs - Mario Super Mario World GBA-Style (1)_16
+  - first:
+      213: -817067392880397761
+    second: Custom Edited - Mario Customs - Mario Super Mario World GBA-Style (1)_17
+  - first:
+      213: 6334534506657505551
+    second: Custom Edited - Mario Customs - Mario Super Mario World GBA-Style (1)_18
+  - first:
+      213: -3525376424371338812
+    second: Custom Edited - Mario Customs - Mario Super Mario World GBA-Style (1)_19
+  - first:
+      213: -5445348885450499796
+    second: Custom Edited - Mario Customs - Mario Super Mario World GBA-Style (1)_20
+  - first:
+      213: 591585546329234668
+    second: Custom Edited - Mario Customs - Mario Super Mario World GBA-Style (1)_21
+  - first:
+      213: 6388685028062671626
+    second: Custom Edited - Mario Customs - Mario Super Mario World GBA-Style (1)_22
+  - first:
+      213: -4910700748930573597
+    second: Custom Edited - Mario Customs - Mario Super Mario World GBA-Style (1)_23
+  - first:
+      213: -3179987714151183619
+    second: Custom Edited - Mario Customs - Mario Super Mario World GBA-Style (1)_24
+  - first:
+      213: -7470199454702743595
+    second: Custom Edited - Mario Customs - Mario Super Mario World GBA-Style (1)_25
+  - first:
+      213: -6072603765305571342
+    second: Custom Edited - Mario Customs - Mario Super Mario World GBA-Style (1)_26
+  - first:
+      213: 8268310888696653264
+    second: Custom Edited - Mario Customs - Mario Super Mario World GBA-Style (1)_27
+  - first:
+      213: -5782320436504543566
+    second: Custom Edited - Mario Customs - Mario Super Mario World GBA-Style (1)_28
+  - first:
+      213: -4757694382984651026
+    second: Custom Edited - Mario Customs - Mario Super Mario World GBA-Style (1)_29
+  - first:
+      213: 5859300650246182450
+    second: Custom Edited - Mario Customs - Mario Super Mario World GBA-Style (1)_30
+  - first:
+      213: 6722650475873780805
+    second: Custom Edited - Mario Customs - Mario Super Mario World GBA-Style (1)_31
+  - first:
+      213: -6601735974804586709
+    second: Custom Edited - Mario Customs - Mario Super Mario World GBA-Style (1)_32
+  - first:
+      213: -177175376834490021
+    second: Custom Edited - Mario Customs - Mario Super Mario World GBA-Style (1)_33
+  - first:
+      213: -4363229629514484990
+    second: Custom Edited - Mario Customs - Mario Super Mario World GBA-Style (1)_34
+  - first:
+      213: -5177626059118017506
+    second: Custom Edited - Mario Customs - Mario Super Mario World GBA-Style (1)_35
+  - first:
+      213: 3415868521477376432
+    second: Custom Edited - Mario Customs - Mario Super Mario World GBA-Style (1)_36
+  - first:
+      213: -6862094012499614943
+    second: Custom Edited - Mario Customs - Mario Super Mario World GBA-Style (1)_37
+  - first:
+      213: -2597976129454316951
+    second: Custom Edited - Mario Customs - Mario Super Mario World GBA-Style (1)_38
+  - first:
+      213: -8312932659973888370
+    second: Custom Edited - Mario Customs - Mario Super Mario World GBA-Style (1)_39
+  - first:
+      213: -1589421075902888188
+    second: Custom Edited - Mario Customs - Mario Super Mario World GBA-Style (1)_40
+  - first:
+      213: -1074778228529083363
+    second: Custom Edited - Mario Customs - Mario Super Mario World GBA-Style (1)_41
+  - first:
+      213: -401265823089052334
+    second: Custom Edited - Mario Customs - Mario Super Mario World GBA-Style (1)_42
+  - first:
+      213: -6122797608389554398
+    second: Custom Edited - Mario Customs - Mario Super Mario World GBA-Style (1)_43
+  - first:
+      213: -1664537277462953380
+    second: Custom Edited - Mario Customs - Mario Super Mario World GBA-Style (1)_44
+  - first:
+      213: 978613246789040402
+    second: Custom Edited - Mario Customs - Mario Super Mario World GBA-Style (1)_45
+  - first:
+      213: -5063271068546915746
+    second: Custom Edited - Mario Customs - Mario Super Mario World GBA-Style (1)_46
+  - first:
+      213: -874240909733103066
+    second: Custom Edited - Mario Customs - Mario Super Mario World GBA-Style (1)_47
+  - first:
+      213: 3943548515112622200
+    second: Custom Edited - Mario Customs - Mario Super Mario World GBA-Style (1)_48
+  - first:
+      213: 4373972186074450494
+    second: Custom Edited - Mario Customs - Mario Super Mario World GBA-Style (1)_49
+  - first:
+      213: 4755015493030799457
+    second: Custom Edited - Mario Customs - Mario Super Mario World GBA-Style (1)_50
+  - first:
+      213: -7066068543140924166
+    second: Custom Edited - Mario Customs - Mario Super Mario World GBA-Style (1)_51
+  - first:
+      213: 7003984781146492382
+    second: Custom Edited - Mario Customs - Mario Super Mario World GBA-Style (1)_52
+  - first:
+      213: -8243963129309543142
+    second: Custom Edited - Mario Customs - Mario Super Mario World GBA-Style (1)_53
+  - first:
+      213: 7817449363172623023
+    second: Custom Edited - Mario Customs - Mario Super Mario World GBA-Style (1)_54
+  - first:
+      213: 7461476993298097488
+    second: Custom Edited - Mario Customs - Mario Super Mario World GBA-Style (1)_55
+  - first:
+      213: -4923829193027969912
+    second: Custom Edited - Mario Customs - Mario Super Mario World GBA-Style (1)_56
+  - first:
+      213: 4290983381179285495
+    second: Custom Edited - Mario Customs - Mario Super Mario World GBA-Style (1)_57
+  - first:
+      213: -708349975094556920
+    second: Custom Edited - Mario Customs - Mario Super Mario World GBA-Style (1)_58
+  - first:
+      213: -8909271628119946819
+    second: Custom Edited - Mario Customs - Mario Super Mario World GBA-Style (1)_59
+  - first:
+      213: 7585741655788055713
+    second: Custom Edited - Mario Customs - Mario Super Mario World GBA-Style (1)_60
+  - first:
+      213: -6239878513396657494
+    second: Custom Edited - Mario Customs - Mario Super Mario World GBA-Style (1)_61
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Mario Super Mario World GBA-Style (1)_0
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 260
+        width: 13
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecf2066111aa372b0800000000000000
+      internalID: -5587935722270085170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Mario Super Mario World GBA-Style (1)_1
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 260
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 671e305ce0e62e160800000000000000
+      internalID: 7053320976129581430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Mario Super Mario World GBA-Style (1)_2
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 261
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48714badc029a8030800000000000000
+      internalID: 3497768644513109892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Mario Super Mario World GBA-Style (1)_3
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 260
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aefe41df8de8223a0800000000000000
+      internalID: -6691629033709047830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Mario Super Mario World GBA-Style (1)_4
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 260
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0ba30aba937bafc0800000000000000
+      internalID: -3482562778457986292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Mario Super Mario World GBA-Style (1)_5
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 261
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d0e3e5a5625a5670800000000000000
+      internalID: 8528219440907804885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Mario Super Mario World GBA-Style (1)_6
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 261
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1565327224c6d6f00800000000000000
+      internalID: 1111663714410649169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Mario Super Mario World GBA-Style (1)_7
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 260
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9efc551a169f80e30800000000000000
+      internalID: 4470096827879116777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Mario Super Mario World GBA-Style (1)_8
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 233
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35423adb16c6e00c0800000000000000
+      internalID: -4607626201704225709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Mario Super Mario World GBA-Style (1)_9
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 232
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 674f067ba31bd4700800000000000000
+      internalID: 526271597215020150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Mario Super Mario World GBA-Style (1)_10
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 231
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22d20948d8d33bbd0800000000000000
+      internalID: -2615679280548401886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Mario Super Mario World GBA-Style (1)_11
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 233
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6a7872dbf6833600800000000000000
+      internalID: 446849204165835371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Mario Super Mario World GBA-Style (1)_12
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 232
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee00c823c87bfe840800000000000000
+      internalID: 5255621102935998702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Mario Super Mario World GBA-Style (1)_13
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 231
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 545d57119018cf870800000000000000
+      internalID: 8717984854630061381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Mario Super Mario World GBA-Style (1)_14
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 232
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4feae30b797e2d840800000000000000
+      internalID: 5247511154523025140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Mario Super Mario World GBA-Style (1)_15
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 233
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 353c0ff21210a0850800000000000000
+      internalID: 6343884267154621267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Mario Super Mario World GBA-Style (1)_16
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 232
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0da978309d7da7170800000000000000
+      internalID: 8177085400511650512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Mario Super Mario World GBA-Style (1)_17
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 235
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f323fc1098139a4f0800000000000000
+      internalID: -817067392880397761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Mario Super Mario World GBA-Style (1)_18
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 233
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0166ce6299c8e750800000000000000
+      internalID: 6334534506657505551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Mario Super Mario World GBA-Style (1)_19
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 233
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c14fcdf1d8531fc0800000000000000
+      internalID: -3525376424371338812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Mario Super Mario World GBA-Style (1)_20
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 233
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2957a41a0c3e64b0800000000000000
+      internalID: -5445348885450499796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Mario Super Mario World GBA-Style (1)_21
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 233
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cec95378bebb53800800000000000000
+      internalID: 591585546329234668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Mario Super Mario World GBA-Style (1)_22
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 233
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a03388f2f2b29a850800000000000000
+      internalID: 6388685028062671626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Mario Super Mario World GBA-Style (1)_23
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 233
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ea9fb5dfafa9dbb0800000000000000
+      internalID: -4910700748930573597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Mario Super Mario World GBA-Style (1)_24
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 232
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfa89e3b50a6ed3d0800000000000000
+      internalID: -3179987714151183619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Mario Super Mario World GBA-Style (1)_25
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 232
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5df402dbc25845890800000000000000
+      internalID: -7470199454702743595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Mario Super Mario World GBA-Style (1)_26
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 232
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f7034bac07c9bba0800000000000000
+      internalID: -6072603765305571342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Mario Super Mario World GBA-Style (1)_27
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 232
+        width: 13
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d5224522f0feb270800000000000000
+      internalID: 8268310888696653264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Mario Super Mario World GBA-Style (1)_28
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 232
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2be3aa4f23211cfa0800000000000000
+      internalID: -5782320436504543566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Mario Super Mario World GBA-Style (1)_29
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 232
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eee14508a2649fdb0800000000000000
+      internalID: -4757694382984651026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Mario Super Mario World GBA-Style (1)_30
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 232
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2369322c5ea605150800000000000000
+      internalID: 5859300650246182450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Mario Super Mario World GBA-Style (1)_31
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 232
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 544419b5df6ab4d50800000000000000
+      internalID: 6722650475873780805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Mario Super Mario World GBA-Style (1)_32
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 232
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2ffad0cb1ce164a0800000000000000
+      internalID: -6601735974804586709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Mario Super Mario World GBA-Style (1)_33
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 232
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5195d8feeb8a8df0800000000000000
+      internalID: -177175376834490021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Mario Super Mario World GBA-Style (1)_34
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 232
+        width: 13
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2037453f4c1b273c0800000000000000
+      internalID: -4363229629514484990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Mario Super Mario World GBA-Style (1)_35
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 231
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e14077e08806528b0800000000000000
+      internalID: -5177626059118017506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Mario Super Mario World GBA-Style (1)_36
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 171
+        width: 15
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b9091e725a976f20800000000000000
+      internalID: 3415868521477376432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Mario Super Mario World GBA-Style (1)_37
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 171
+        width: 15
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12320a14ad1f4c0a0800000000000000
+      internalID: -6862094012499614943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Mario Super Mario World GBA-Style (1)_38
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 172
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9626ee4997222fbd0800000000000000
+      internalID: -2597976129454316951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Mario Super Mario World GBA-Style (1)_39
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 171
+        width: 15
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8663802ac782ac80800000000000000
+      internalID: -8312932659973888370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Mario Super Mario World GBA-Style (1)_40
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 171
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4070a4cd3fd31f9e0800000000000000
+      internalID: -1589421075902888188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Mario Super Mario World GBA-Style (1)_41
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 170
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1c433445ee9511f0800000000000000
+      internalID: -1074778228529083363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Mario Super Mario World GBA-Style (1)_42
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 172
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 255b5422cda6e6af0800000000000000
+      internalID: -401265823089052334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Mario Super Mario World GBA-Style (1)_43
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 171
+        width: 18
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22f4450e304770ba0800000000000000
+      internalID: -6122797608389554398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Mario Super Mario World GBA-Style (1)_44
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 131
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c52cc6d4a2066e8e0800000000000000
+      internalID: -1664537277462953380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Mario Super Mario World GBA-Style (1)_45
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 131
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2193a53209bb49d00800000000000000
+      internalID: 978613246789040402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Mario Super Mario World GBA-Style (1)_46
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 131
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e52afbd1ac5abb9b0800000000000000
+      internalID: -5063271068546915746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Mario Super Mario World GBA-Style (1)_47
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 132
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62a7e3746821ed3f0800000000000000
+      internalID: -874240909733103066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Mario Super Mario World GBA-Style (1)_48
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 131
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8789ecd0b7c4ab630800000000000000
+      internalID: 3943548515112622200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Mario Super Mario World GBA-Style (1)_49
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 131
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3a0868678873bc30800000000000000
+      internalID: 4373972186074450494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Mario Super Mario World GBA-Style (1)_50
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 131
+        width: 21
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1686493d5653df140800000000000000
+      internalID: 4755015493030799457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Mario Super Mario World GBA-Style (1)_51
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 131
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af4f58ff81840fd90800000000000000
+      internalID: -7066068543140924166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Mario Super Mario World GBA-Style (1)_52
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 131
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edd8a7cbc07233160800000000000000
+      internalID: 7003984781146492382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Mario Super Mario World GBA-Style (1)_53
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 131
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a154618563f879d80800000000000000
+      internalID: -8243963129309543142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Mario Super Mario World GBA-Style (1)_54
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 131
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa20285f6c82d7c60800000000000000
+      internalID: 7817449363172623023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Mario Super Mario World GBA-Style (1)_55
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 131
+        width: 18
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0556845facd7c8760800000000000000
+      internalID: 7461476993298097488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Mario Super Mario World GBA-Style (1)_56
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 131
+        width: 15
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88c9edebf6b0babb0800000000000000
+      internalID: -4923829193027969912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Mario Super Mario World GBA-Style (1)_57
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 132
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ffbb4c86a2ac8b30800000000000000
+      internalID: 4290983381179285495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Mario Super Mario World GBA-Style (1)_58
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 131
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80705dd537f6b26f0800000000000000
+      internalID: -708349975094556920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Mario Super Mario World GBA-Style (1)_59
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 131
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db9c17658a8eb5480800000000000000
+      internalID: -8909271628119946819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Mario Super Mario World GBA-Style (1)_60
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 131
+        width: 15
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ac612f48d7f54960800000000000000
+      internalID: 7585741655788055713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Mario Super Mario World GBA-Style (1)_61
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 134
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa256676d8f7769a0800000000000000
+      internalID: -6239878513396657494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

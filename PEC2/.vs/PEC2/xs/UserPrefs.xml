@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{69344FFA-FA72-F285-EF14-7CAF855F0729}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/DataManager.cs">
+    <Files>
+      <File FileName="Assets/Scripts/ScoreSystem.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/GameOver.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/DataManager.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="PEC2" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Scripts" expanded="True">
+                <Node name="DataManager.cs" selected="True" />
+              </Node>
+            </Node>
+            <Node name="Packages" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.UnityEngine.TestRunner PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="4300324c-669a-4d19-b746-994fcef068b1" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
